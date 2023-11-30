@@ -48,7 +48,7 @@ function About() {
                   <img src={Box3} alt="car-icon" className="last-fk" />
                   <span>
                     <h4>75</h4>
-                    <p>Repair Shop</p>
+                    <p>Repair Shop is Not Availble.</p>
                   </span>
                 </div>
               </div>
@@ -64,7 +64,7 @@ function About() {
             <h2>Book a car by getting in touch with us</h2>
             <span>
               <IconPhone width={40} height={40} />
-              <h3>(123) 456-7869</h3>
+              <h3>(+91) 000-0000</h3>
             </span>
           </div>
         </div>
